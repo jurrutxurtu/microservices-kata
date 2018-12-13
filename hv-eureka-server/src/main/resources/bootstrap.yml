@@ -1,0 +1,4 @@
+spring:
+  cloud:
+    config:
+      uri: http://10.15.113.33:8888
